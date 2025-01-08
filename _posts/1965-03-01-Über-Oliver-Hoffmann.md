@@ -53,5 +53,5 @@ Im Frühling 2024 habe ich mich mit dem [Wahlbündnis ÖXIT](https://oexit.me/) 
 Die Kandidatur von [Liste Madeleine Petrovic](https://liste-petrovic.at) und [MFG Österreich – Menschen Freiheit Grundrechte](https://www.mfg-oe.at) bei der Nationalratswahl 2024 habe ich mit einer 
 [Entscheidungshilfe in Form eines Interviews](https://open.substack.com/pub/olvrhffmnn/p/covid-manahmen-kritikern-eine-stimme?r=1nq95d&utm_campaign=post&utm_medium=web) unterstützt.
 Nach der Nationalratswahl 2024 habe ich die
-[Parlamentarische Bürgerinitiative zur Entlassung der Bundesregierung Nehammer-Kogler](https://olvrhffmnn.substack.com/p/nehammer-muss-weg)
+[Parlamentarische Bürgerinitiative zur Entlassung der Bundesregierung Nehammer-Kogler](https://www.parlament.gv.at/gegenstand/XXVIII/BI/19)
 gestartet.
