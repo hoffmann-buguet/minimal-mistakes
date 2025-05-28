@@ -16,12 +16,12 @@ minimal_mistakes_skin    : sunrise # "default", "air", "aqua", "contrast", "dark
 
 # Site Settings
 locale                   : de
-title                    : Demokratie
+title                    : Andreas Zacharasiewicz
 title_separator          : " "
 subtitle                 : " "
-name                     : "Oliver Hoffmann"
+name                     : "Andreas Zacharasiewicz"
 description              : "Parlamentarische Bürgerinitiative"
-url                      : https://demokratie.at
+url                      : https://zacharasiewicz.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/2024-10-05-DEMO.svg
@@ -103,9 +103,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oliver Hoffmann"
+  name             : "Andreas Zacharasiewicz"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "demokratie.at"
+  bio              : "zacharasiewicz.at"
   location         : "Wien"
   email            :
   links:
@@ -137,9 +137,9 @@ footer:
     - # label: "Twitter"
       # icon: https://demokratie.at/assets/images/2024-07-09-X-Logo.svg
       # url: https://twitter.com/olvrhffmnn
-    - label: "Substack"
-      icon: https://demokratie.at/assets/images/2024-10-10-substack.svg
-      url: https://olvrhffmnn.substack.com
+    - # label: "Substack"
+      # icon: https://demokratie.at/assets/images/2024-10-10-substack.svg
+      # url: https://olvrhffmnn.substack.com
     - # label: "Telegram"
       # icon: https://telegram.org/img/website_icon.svg
       # url: https://t.me/olvrhffmnn
