@@ -24,8 +24,8 @@ description              : "Parlamentarische Bürgerinitiative"
 url                      : https://zacharasiewicz.at
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/2024-10-05-DEMO.svg
-logo                     : /assets/images/2024-10-05-DEMO.svg
+teaser                   : /assets/images/1695370092474.jpeg
+logo                     : /assets/images/1695370092474.jpeg
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
@@ -86,7 +86,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/2024-10-18-Demokratie-Open-Graph-Image.png
+og_image                 : /assets/images/1695370092474.jpeg
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Andreas Zacharasiewicz"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/1695370092474.jpeg"
   bio              : "zacharasiewicz.at"
   location         : "Wien"
   email            :
