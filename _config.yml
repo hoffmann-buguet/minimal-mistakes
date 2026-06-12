@@ -16,12 +16,12 @@ minimal_mistakes_skin    : air # "default", "air", "aqua", "contrast", "dark", "
 
 # Site Settings
 locale                   : de
-title                    : Andreas Zacharasiewicz
+title                    : Jade Hoffmann-Buguet
 title_separator          : " "
 subtitle                 : " "
-name                     : "Andreas Zacharasiewicz"
-description              : "Andreas Zacharasiewicz"
-url                      : https://zacharasiewicz.at
+name                     : Jade Hoffmann-Buguet
+description              : Jade Hoffmann-Buguet
+url                      : https://hoffmann-buguet.eu/
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/1695370092474.jpeg
@@ -103,10 +103,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andreas Zacharasiewicz"
+  name             : Jade Hoffmann-Buguet
   avatar           : # path of avatar image, e.g. "/assets/images/1695370092474.jpeg"
-  bio              : "zacharasiewicz.at"
-  location         : "Wien"
+  bio              : Jade Hoffmann-Buguet
+  location         : EU
   email            :
   links:
     - label: "Email"
