@@ -25,7 +25,7 @@ url                      : https://hoffmann-buguet.eu/
 baseurl                  : /
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : /assets/images/1695370092474.jpeg
-logo                     : /assets/images/1695370092474.jpeg
+logo                     :  
 masthead_title           : " "
 # breadcrumbs            : false
 words_per_minute         : 200
